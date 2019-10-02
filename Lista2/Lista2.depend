@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538964863 source:c:\users\matheus oliveira\documents\algoritmos\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+
